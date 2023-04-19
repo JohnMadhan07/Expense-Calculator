@@ -4,7 +4,7 @@ Prequisites:
 3.VS Code
 
 Steps to start Application:
-1.Copy the files from Github to your local system
+1.Copy all the files from Github to your local system
 2.Open the Folder in VS Code.
 3.Open A new Terminal and enter 'npm install'
 4.After installation, enter 'npm start'
